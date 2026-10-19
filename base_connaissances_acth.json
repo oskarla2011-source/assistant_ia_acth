@@ -1,0 +1,506 @@
+[
+  {
+    "id": "faq_financement_possible",
+    "type": "faq",
+    "question": "Ma formation peut-elle être prise en charge financièrement ?",
+    "aliases": [
+      "Est-ce que ma formation peut être financée ?",
+      "Puis-je faire financer ma formation ?",
+      "Est-ce qu'un organisme peut payer la formation ?",
+      "La formation peut-elle être prise en charge ?"
+    ],
+    "keywords": [
+      "financement",
+      "prise en charge",
+      "financer",
+      "financeur",
+      "opco",
+      "faf",
+      "frais",
+      "payer"
+    ],
+    "answer": "Oui, votre formation peut être financée entièrement ou partiellement par un organisme financeur (OPCO, FAF…).",
+    "source": "FAQ ACTH — https://acth.fr/foire-aux-questions"
+  },
+  {
+    "id": "faq_opco",
+    "type": "faq",
+    "question": "Qu’est-ce qu’un OPCO ?",
+    "aliases": [
+      "C'est quoi un OPCO ?",
+      "À quoi sert un OPCO ?",
+      "Quel organisme finance ma formation ?",
+      "Comment savoir de quel OPCO je dépends ?"
+    ],
+    "keywords": [
+      "opco",
+      "organisme financeur",
+      "statut",
+      "salarié",
+      "indépendant",
+      "autoentrepreneur",
+      "dirigeant non salarié",
+      "profession libérale",
+      "demandeur d'emploi",
+      "branche professionnelle"
+    ],
+    "answer": "L’organisme financeur dépend de votre statut (salarié, indépendant, autoentrepreneur, travailleur indépendant, dirigeant non salarié, profession libérale, demandeur d’emploi) et du champ d’activité professionnelle de votre entreprise.\n\nPour connaître les possibilités de prise en charge, consultez la liste des OPCO et leurs procédures. Elles dépendent de plusieurs critères : branche professionnelle, effectif, type de formation, etc.\n\nVous pouvez consulter la page financement d’ACTH : https://acth.fr/financement .",
+    "source": "FAQ ACTH — https://acth.fr/foire-aux-questions"
+  },
+  {
+    "id": "faq_cpf",
+    "type": "faq",
+    "question": "Est-il possible d’utiliser mon CPF pour me former ?",
+    "aliases": [
+      "Puis-je utiliser mon compte CPF ?",
+      "Est-ce que je peux financer avec mon CPF ?",
+      "Le CPF est-il accepté ?",
+      "Comment utiliser mes droits CPF ?"
+    ],
+    "keywords": [
+      "cpf",
+      "compte personnel de formation",
+      "droits",
+      "financer",
+      "temps de travail",
+      "employeur",
+      "formation éligible"
+    ],
+    "answer": "En dehors du temps de travail, vous êtes libre d’utiliser votre budget comme bon vous semble. Dans le cadre de votre activité salariée, vous devez avertir votre employeur de votre projet de formation. Il est nécessaire d’avoir son accord pour vous absenter de votre poste.\n\nPour vérifier les formations éligibles au CPF, consultez la rubrique Financement du site ACTH et sélectionnez le filtre correspondant : https://acth.fr/financement .",
+    "source": "FAQ ACTH — https://acth.fr/foire-aux-questions"
+  },
+  {
+    "id": "faq_lieu",
+    "type": "faq",
+    "question": "Où aura lieu ma formation ?",
+    "aliases": [
+      "Où se déroule la formation ?",
+      "Les formations ont-elles lieu à Paris ?",
+      "Puis-je suivre la formation à distance ?",
+      "Où ont lieu les cours ?"
+    ],
+    "keywords": [
+      "lieu",
+      "lieux",
+      "où",
+      "Paris",
+      "présentiel",
+      "distanciel",
+      "distance",
+      "interentreprises",
+      "intra",
+      "locaux"
+    ],
+    "answer": "En interentreprises, la formation se déroule dans nos locaux à Paris 10e ou en distanciel. En intra, les formations ont lieu, à votre convenance, dans nos locaux ou dans vos locaux.",
+    "source": "FAQ ACTH — https://acth.fr/foire-aux-questions"
+  },
+  {
+    "id": "faq_horaires",
+    "type": "faq",
+    "question": "Quels sont les horaires des formations ?",
+    "aliases": [
+      "À quelle heure commence la formation ?",
+      "À quelle heure finit la formation ?",
+      "Quels sont les horaires ?",
+      "Combien durent les pauses ?",
+      "À quelle heure est la pause déjeuner ?"
+    ],
+    "keywords": [
+      "horaires",
+      "heure",
+      "commence",
+      "finit",
+      "pause",
+      "déjeuner",
+      "9 h",
+      "17 h"
+    ],
+    "answer": "Nos formations débutent à 9 h et se terminent à 17 h. Une pause déjeuner d’une heure est prévue entre 13 h et 14 h, ainsi que deux pauses de 15 minutes, à 11 h et à 15 h.",
+    "source": "FAQ ACTH — https://acth.fr/foire-aux-questions"
+  },
+  {
+    "id": "faq_opco_obligations",
+    "type": "faq",
+    "question": "Comment se passe le financement et quelles sont les obligations vis-à-vis d’un OPCO ?",
+    "aliases": [
+      "Quels documents faut-il envoyer à l’OPCO ?",
+      "Quelles démarches dois-je faire auprès de mon OPCO ?",
+      "Comment obtenir une prise en charge OPCO ?",
+      "Quels justificatifs sont nécessaires pour le financement ?"
+    ],
+    "keywords": [
+      "opco",
+      "documents",
+      "pièces",
+      "convention",
+      "convocation",
+      "facturation",
+      "démarches",
+      "prise en charge",
+      "financement"
+    ],
+    "answer": "Les procédures de prise en charge des formations varient d’un OPCO à l’autre. Les pièces à fournir peuvent comprendre les conventions, convocations et éléments de facturation. Consultez le site Internet de votre OPCO ou contactez votre interlocuteur privilégié auprès de celui-ci pour obtenir les réponses nécessaires.",
+    "source": "FAQ ACTH — https://acth.fr/foire-aux-questions"
+  },
+  {
+    "id": "faq_bim_manager",
+    "type": "faq",
+    "question": "Quel est le rôle d’un BIM manager ?",
+    "aliases": [
+      "Que fait un BIM manager ?",
+      "En quoi consiste le métier de BIM manager ?",
+      "Quelles sont les missions du BIM manager ?"
+    ],
+    "keywords": [
+      "bim manager",
+      "manager",
+      "gestion",
+      "organisation",
+      "processus bim",
+      "modèles",
+      "coordination",
+      "normes"
+    ],
+    "answer": "Un BIM Manager est responsable de la gestion et de l’organisation du processus BIM (modélisation des informations du bâtiment) sur un projet. Il s’assure que tous les acteurs utilisent correctement les outils et méthodes BIM, respectent les normes et évitent les conflits dans les modèles.",
+    "source": "FAQ ACTH — https://acth.fr/foire-aux-questions"
+  },
+  {
+    "id": "faq_bim_coordinateur",
+    "type": "faq",
+    "question": "Quel est le rôle d’un BIM coordinateur ?",
+    "aliases": [
+      "Que fait un BIM coordinateur ?",
+      "En quoi consiste le métier de BIM coordinateur ?",
+      "Quelles sont les missions du coordinateur BIM ?"
+    ],
+    "keywords": [
+      "bim coordinateur",
+      "coordinateur",
+      "coordination",
+      "architectes",
+      "ingénieurs",
+      "modèles",
+      "conflits",
+      "doublons"
+    ],
+    "answer": "Un BIM Coordinateur veille à la bonne coordination entre les différents acteurs du projet, comme les architectes, les ingénieurs et les sous-traitants. Il s’assure que les modèles sont correctement partagés, respectent les normes et ne présentent pas de doublons ou de conflits.",
+    "source": "FAQ ACTH — https://acth.fr/foire-aux-questions"
+  },
+  {
+    "id": "faq_bim_modeleur",
+    "type": "faq",
+    "question": "Quel est le rôle d’un BIM modeleur ?",
+    "aliases": [
+      "Que fait un BIM modeleur ?",
+      "En quoi consiste le métier de BIM modeleur ?",
+      "Quelles sont les missions d’un modeleur BIM ?"
+    ],
+    "keywords": [
+      "bim modeleur",
+      "modeleur",
+      "modèle 3d",
+      "logiciel bim",
+      "maquette numérique",
+      "plans",
+      "représentation"
+    ],
+    "answer": "Un BIM Modeleur crée des modèles 3D du bâtiment à l’aide de logiciels BIM. Il transforme les informations techniques en modélisations numériques précises, en veillant à ce que les détails du projet soient correctement représentés et conformes aux plans.",
+    "source": "FAQ ACTH — https://acth.fr/foire-aux-questions"
+  },
+  {
+    "id": "faq_amo_bim",
+    "type": "faq",
+    "question": "Quel est le rôle d’un AMO BIM ?",
+    "aliases": [
+      "Que fait un AMO BIM ?",
+      "En quoi consiste l’AMO BIM ?",
+      "À quoi sert l’assistance à maîtrise d’ouvrage BIM ?"
+    ],
+    "keywords": [
+      "amo bim",
+      "assistance à maîtrise d'ouvrage",
+      "maître d'ouvrage",
+      "client",
+      "stratégie",
+      "conseil",
+      "mise en œuvre"
+    ],
+    "answer": "Un AMO BIM (Assistance à Maîtrise d’Ouvrage BIM) aide le client à intégrer le BIM dans son projet. Il conseille le maître d’ouvrage sur les bonnes pratiques et la stratégie à adopter, et assure le suivi pour favoriser la réussite de la mise en œuvre du BIM.",
+    "source": "FAQ ACTH — https://acth.fr/foire-aux-questions"
+  },
+  {
+    "id": "presentation_acth",
+    "type": "info",
+    "question": "Qu’est-ce qu’ACTH ?",
+    "aliases": [
+      "Présentez ACTH",
+      "Qui êtes-vous ?",
+      "Que fait ACTH ?",
+      "Quelle est votre activité ?"
+    ],
+    "keywords": [
+      "acth",
+      "entreprise",
+      "organisme",
+      "présentation",
+      "conseil",
+      "formation",
+      "accompagnement",
+      "transition numérique",
+      "architecture",
+      "ingénierie",
+      "construction",
+      "aic"
+    ],
+    "text": "ACTH est une entreprise de conseil, de formation et d’accompagnement de la transition numérique des acteurs de l’Architecture, de l’Ingénierie et de la Construction (AIC), avec une expertise intégrant le BIM. Créée en 1990, ACTH intervient de la définition de la stratégie et des méthodes jusqu’à la formation et l’accompagnement des projets. Elle travaille notamment avec maîtres d’ouvrage, maîtres d’œuvre, entreprises de construction et de maintenance, directions immobilières et gestionnaires de patrimoine. Source : https://acth.fr/notre-entreprise ."
+  },
+  {
+    "id": "domaines_formations",
+    "type": "catalogue",
+    "question": "Quelles formations propose ACTH ?",
+    "aliases": [
+      "Quels sont vos domaines de formation ?",
+      "Je cherche une formation BIM",
+      "Quelles formations peut-on suivre chez ACTH ?",
+      "Je veux me former à la construction numérique"
+    ],
+    "keywords": [
+      "formations",
+      "catalogue",
+      "domaines",
+      "bim",
+      "management",
+      "coordination",
+      "modélisation",
+      "communication",
+      "rendu",
+      "accompagnement projet"
+    ],
+    "text": "ACTH présente plusieurs grands domaines de formation : Management du BIM ; Coordination du BIM ; Modélisation ; Communication et outils de rendu ; Accompagnement projet. Exemples d’intitulés visibles sur les pages officielles : BIM Direction ; Intégrer les enjeux juridiques du BIM dans les contrats ; Mobiliser le BIM dans les projets d’infrastructures ; Rédiger une charte et un cahier des charges BIM ; Recourir au BIM dans un projet de réhabilitation ; Manager un projet BIM ; Comprendre les fondamentaux du BIM ; BIM Synthèse ; Concevoir et piloter un projet BIM en construction. Les formations visent des professionnels de la construction, de l’architecture, de l’ingénierie et de la gestion immobilière. Pour le catalogue complet, les programmes et informations actualisées : https://acth.fr/nos-formations ."
+  },
+  {
+    "id": "formats_formations",
+    "type": "info",
+    "question": "Quels formats de formation sont disponibles ?",
+    "aliases": [
+      "Proposez-vous des formations à distance ?",
+      "Quelle différence entre inter et intra ?",
+      "Peut-on organiser une formation sur mesure ?",
+      "ACTH intervient-elle dans les locaux de l’entreprise ?"
+    ],
+    "keywords": [
+      "inter",
+      "intra",
+      "sur mesure",
+      "distanciel",
+      "distance",
+      "présentiel",
+      "format",
+      "locaux",
+      "lieu",
+      "national"
+    ],
+    "text": "ACTH propose des formations inter-entreprises (participants de plusieurs entreprises ou indépendants), intra-entreprise (pour les collaborateurs d’une même entreprise), sur mesure et à distance. Pour les formations intra, le lieu, les dates et le mode pédagogique sont définis ensemble ; ACTH indique intervenir sur tout le territoire national. Les modalités précises dépendent du programme et doivent être confirmées pour la formation concernée. Source : https://acth.fr/nos-formations ."
+  },
+  {
+    "id": "exemple_prix_duree",
+    "type": "catalogue",
+    "question": "Quel est le prix d’une formation ACTH ?",
+    "aliases": [
+      "Quels sont les tarifs ?",
+      "Combien coûte une formation ?",
+      "Quel est le prix de Concevoir et piloter un projet BIM en construction ?"
+    ],
+    "keywords": [
+      "prix",
+      "tarif",
+      "coût",
+      "euros",
+      "ht",
+      "devis",
+      "durée",
+      "concevoir",
+      "piloter",
+      "projet bim",
+      "construction"
+    ],
+    "text": "Le tarif dépend de la formation et du format. À titre d’exemple uniquement, la page ACTH de la formation « Concevoir et piloter un projet BIM en construction » affiche pour l’inter-entreprises 1 500 € HT (1 800 € TTC), une durée de 2 jours / 14 heures et un groupe limité à 10 stagiaires ; l’intra est indiqué sur devis. Ne pas présenter ce prix comme celui de tout le catalogue. Pour vérifier les tarifs du programme choisi, consulter la fiche officielle : https://acth.fr/nos-formations/coordination-du-bim/concevoir-et-piloter-un-projet-bim-en-construction ."
+  },
+  {
+    "id": "contact_acth",
+    "type": "info",
+    "question": "Comment contacter ACTH ?",
+    "aliases": [
+      "Quel est votre numéro de téléphone ?",
+      "Quelle est votre adresse ?",
+      "Quelle est votre adresse e-mail ?",
+      "Comment demander des informations ?"
+    ],
+    "keywords": [
+      "contact",
+      "téléphone",
+      "appeler",
+      "email",
+      "courriel",
+      "adresse",
+      "Paris",
+      "Lucien Sampaix"
+    ],
+    "text": "Pour contacter ACTH : téléphone +33 (0)1 43 26 23 21 ; e-mail info@acth.fr ; adresse 15 rue Lucien Sampaix, 75010 Paris. Le formulaire de contact est accessible sur https://acth.fr/contact . Source : https://acth.fr/ ."
+  },
+  {
+    "id": "financement_general",
+    "type": "info",
+    "question": "Comment financer une formation ACTH ?",
+    "aliases": [
+      "Quels financements sont possibles ?",
+      "Puis-je obtenir un financement ?",
+      "Est-ce que l’OPCO Atlas peut financer ?"
+    ],
+    "keywords": [
+      "financement",
+      "opco",
+      "atlas",
+      "cpf",
+      "faf",
+      "budget",
+      "prise en charge",
+      "financer",
+      "éligibilité"
+    ],
+    "text": "Selon la FAQ ACTH, une formation peut être financée entièrement ou partiellement par un organisme financeur (OPCO, FAF…). L’organisme et les conditions dépendent notamment du statut du bénéficiaire, de la branche professionnelle, de l’effectif et du type de formation. Le site indique aussi que certaines actions collectives peuvent bénéficier d’une prise en charge via OPCO Atlas, sous réserve de critères spécifiques et des fonds disponibles. Ne pas promettre de prise en charge à 100 % sans vérifier l’action, les critères d’éligibilité et le dossier. Informations ACTH : https://acth.fr/financement ."
+  },
+  {
+    "id": "services_acth",
+    "type": "info",
+    "question": "Quels services ACTH propose-t-elle en dehors des formations ?",
+    "aliases": [
+      "Faites-vous du conseil BIM ?",
+      "Proposez-vous de l’accompagnement de projet ?",
+      "Quels sont vos services ?"
+    ],
+    "keywords": [
+      "services",
+      "bim management",
+      "bim stratégie",
+      "bim coordination",
+      "amo bim",
+      "accompagnement projet",
+      "conseil",
+      "stratégie"
+    ],
+    "text": "En plus de la formation, ACTH présente les services suivants : BIM Stratégie, BIM Management, BIM Coordination, AMO BIM Projet et Accompagnement projet. Ces services visent à accompagner la transition numérique, les méthodes et les processus collaboratifs autour du BIM. Source : https://acth.fr/nos-services ."
+  },
+  {
+    "id": "catalogue_management_bim_detail",
+    "type": "catalogue",
+    "question": "Quelles formations relèvent du management du BIM ?",
+    "aliases": [
+      "Je veux apprendre à manager un projet BIM",
+      "Avez-vous une formation sur le cahier des charges BIM ?",
+      "Quelles formations de stratégie BIM proposez-vous ?"
+    ],
+    "keywords": [
+      "management du bim",
+      "bim direction",
+      "cahier des charges",
+      "contrats",
+      "infrastructures",
+      "réhabilitation",
+      "manager un projet",
+      "fondamentaux",
+      "bim synthèse"
+    ],
+    "text": "La page ACTH « Management du BIM » présente notamment les formations suivantes : BIM Direction ; Intégrer les enjeux juridiques du BIM dans les contrats ; Mobiliser le BIM dans les projets d’infrastructures ; Rédiger une charte et un cahier des charges BIM ; Recourir au BIM dans un projet de réhabilitation ; Manager un projet BIM ; Comprendre les fondamentaux du BIM ; BIM Synthèse. Le domaine traite de la conduite d’un projet BIM, des processus et méthodes collaboratifs, de l’organisation de la production et de la coordination multidisciplinaire. Les contenus, durées et tarifs doivent être consultés sur les fiches individuelles. Source : https://acth.fr/nos-formations/management-du-bim ."
+  },
+  {
+    "id": "catalogue_modelisation_detail",
+    "type": "catalogue",
+    "question": "Quelles formations de modélisation ACTH propose-t-elle ?",
+    "aliases": [
+      "Je veux apprendre Revit",
+      "Avez-vous des formations AutoCAD ?",
+      "Je veux apprendre à modéliser en 3D",
+      "Quelles formations logiciels proposez-vous ?"
+    ],
+    "keywords": [
+      "modélisation",
+      "revit",
+      "autocad",
+      "infraworks",
+      "rhinoceros",
+      "grasshopper",
+      "sketchup",
+      "param-o",
+      "familles",
+      "architecture",
+      "structure",
+      "électricité"
+    ],
+    "text": "La page ACTH « Modélisation » recense notamment : Revit Architecture Initiation et Perfectionnement ; Revit Architecture Familles ; Revit Architecture Réhabilitation ; Revit Structure Initiation et Perfectionnement ; Revit Électricité Initiation et Perfectionnement ; Revit Quantification & information ; Revit Architecture Paysage et espace public ; AutoCAD LT – Dessin 2D et son perfectionnement ; InfraWorks – Initiation ; PARAM-O (ArchiCAD) – Modélisation Paramétrique ; Rhinoceros et Grasshopper ; Rhinoceros – Initiation ; SketchUp – Modélisation simple. La disponibilité des cours et l’éligibilité CPF sont propres à chaque fiche et peuvent changer. Source : https://acth.fr/nos-formations/modelisation ."
+  },
+  {
+    "id": "cours_revit_architecture_initiation",
+    "type": "catalogue",
+    "question": "Quel est le contenu et le tarif de Revit Architecture Initiation ?",
+    "aliases": [
+      "Combien coûte Revit Architecture Initiation ?",
+      "Quelle est la durée de la formation Revit Architecture Initiation ?",
+      "Je débute sur Revit, quelle formation suivre ?"
+    ],
+    "keywords": [
+      "revit architecture initiation",
+      "revit débutant",
+      "prix revit",
+      "1575",
+      "35 heures",
+      "5 jours",
+      "modéliser un bâtiment",
+      "cpf"
+    ],
+    "text": "La fiche ACTH « Revit Architecture Initiation » présente une formation de 5 jours / 35 heures. Le tarif inter-entreprises affiché est de 1 575 € HT (1 890 € TTC), pour un groupe de 6 à 10 stagiaires. La fiche indique notamment les objectifs de découvrir l’interface, comprendre la modélisation objet et modéliser un bâtiment. Elle mentionne une éligibilité CPF pour cette fiche, mais l’éligibilité du dossier individuel et les modalités doivent être vérifiées avant de s’engager. Les dates disponibles peuvent changer ; la page indiquait une formation indisponible dans certaines périodes/versions, donc vérifier le statut courant sur la fiche. Source : https://acth.fr/nos-formations/modelisation/revit-architecture-modelisation-simple-initiation ."
+  },
+  {
+    "id": "catalogue_coordination_bim_detail",
+    "type": "catalogue",
+    "question": "Quelles formations sont proposées pour la coordination du BIM ?",
+    "aliases": [
+      "Je veux contrôler une maquette IFC",
+      "Avez-vous une formation sur Solibri ?",
+      "Je veux apprendre la synthèse BIM"
+    ],
+    "keywords": [
+      "coordination du bim",
+      "solibri",
+      "ifc",
+      "synthèse",
+      "contrôle qualité",
+      "maquette",
+      "navisworks",
+      "coordonnateur"
+    ],
+    "text": "ACTH présente un domaine Coordination du BIM. Un exemple de formation référencée est « Initiation à Solibri Office », d’une durée de 7 heures (1 journée), destinée notamment aux chefs de projet, BIM coordinateurs, BIM managers et contrôleurs techniques. Les objectifs décrits incluent analyser les données des maquettes IFC, vérifier la conformité de maquettes et extraire informations et quantités. Un prérequis mentionné est la connaissance du BIM et du modèle IFC. D’autres contenus de coordination et de synthèse BIM figurent dans l’offre. Vérifier programme, prix et disponibilité sur les fiches officielles. Source : https://acth.fr/pdf/Formations/Coordination_du_BIM/initiation-solibri-office.pdf ."
+  },
+  {
+    "id": "catalogue_communication_rendu",
+    "type": "catalogue",
+    "question": "Quelles formations ACTH propose-t-elle en communication et outils de rendu ?",
+    "aliases": [
+      "Je veux apprendre SketchUp",
+      "Avez-vous une formation sur Enscape ?",
+      "Je veux faire des rendus 3D",
+      "Quelles formations pour le rendu photoréaliste ?"
+    ],
+    "keywords": [
+      "communication",
+      "outils de rendu",
+      "sketchup",
+      "vray",
+      "enscape",
+      "rendu",
+      "images photoréalistes",
+      "visualisation 3d"
+    ],
+    "text": "Le site ACTH distingue le domaine « Communication et outils de rendu ». Des documents officiels présentent notamment « SketchUp et l’outil de rendu VRAY – Initiation et principes » et « Enscape pour SketchUp ». Ces formations concernent les outils de modélisation et de rendu/visualisation 3D appliqués notamment à l’architecture, à l’ingénierie et à la construction. Les détails de durée, tarifs, niveau et disponibilité doivent être vérifiés dans le programme en vigueur. Sources : https://acth.fr/pdf/Formations/Communication_et_outils/sketchup-vray.pdf et https://acth.fr/pdf/Formations/Communication_et_outils/sketchup-enscape.pdf ."
+  }
+]
