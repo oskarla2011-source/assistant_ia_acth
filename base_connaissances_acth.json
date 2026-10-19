@@ -502,5 +502,39 @@
       "visualisation 3d"
     ],
     "text": "Le site ACTH distingue le domaine « Communication et outils de rendu ». Des documents officiels présentent notamment « SketchUp et l’outil de rendu VRAY – Initiation et principes » et « Enscape pour SketchUp ». Ces formations concernent les outils de modélisation et de rendu/visualisation 3D appliqués notamment à l’architecture, à l’ingénierie et à la construction. Les détails de durée, tarifs, niveau et disponibilité doivent être vérifiés dans le programme en vigueur. Sources : https://acth.fr/pdf/Formations/Communication_et_outils/sketchup-vray.pdf et https://acth.fr/pdf/Formations/Communication_et_outils/sketchup-enscape.pdf ."
+  },
+  {
+    "id": "faq_catalogue_modelisation_directe",
+    "type": "faq",
+    "question": "Quelles formations de modélisation ACTH propose-t-elle ?",
+    "aliases": [
+      "Quelles formations de modélisation ACTH propose-t-elle",
+      "Quelles formations de modélisation propose ACTH ?",
+      "Quels cours de modélisation proposez-vous ?",
+      "Quelles formations Revit propose ACTH ?",
+      "Avez-vous des formations AutoCAD, Revit ou SketchUp ?",
+      "Je cherche une formation en modélisation",
+      "Je veux apprendre à utiliser Revit",
+      "Quelles formations de logiciels de modélisation sont disponibles ?"
+    ],
+    "keywords": [
+      "modélisation",
+      "modelisation",
+      "revit",
+      "autocad",
+      "infraworks",
+      "rhinoceros",
+      "grasshopper",
+      "sketchup",
+      "param-o",
+      "archicad",
+      "architecture",
+      "structure",
+      "électricité",
+      "familles",
+      "quantification"
+    ],
+    "answer": "ACTH propose plusieurs formations de modélisation, notamment :\n\n- Revit Architecture : initiation, perfectionnement, familles et réhabilitation ;\n- Revit Structure : initiation et perfectionnement ;\n- Revit Électricité : initiation et perfectionnement ;\n- Revit Quantification & Information ;\n- Revit Architecture Paysage et espace public ;\n- AutoCAD LT : dessin 2D et perfectionnement ;\n- InfraWorks : initiation ;\n- PARAM-O (ArchiCAD) : modélisation paramétrique ;\n- Rhinoceros et Grasshopper, ainsi que Rhinoceros initiation ;\n- SketchUp : modélisation simple.\n\nLes programmes, prérequis, tarifs et dates peuvent varier selon la formation. Consultez le catalogue officiel pour les informations à jour : https://acth.fr/nos-formations/modelisation .",
+    "source": "Catalogue officiel ACTH — https://acth.fr/nos-formations/modelisation"
   }
 ]
